@@ -19,6 +19,3 @@ changeButton.addEventListener("click", function(){
     userList.appendChild(newLi);
 
 })
-
-
-
